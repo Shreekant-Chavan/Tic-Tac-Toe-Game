@@ -10,6 +10,11 @@ html, body{
     text-align: center;
 }
 
+
+body {
+    overflow: hidden;   
+}
+
 h1{
     color: #fff;
     display: flex;
